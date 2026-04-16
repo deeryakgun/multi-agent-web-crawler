@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database (auto-generated)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+venv/
